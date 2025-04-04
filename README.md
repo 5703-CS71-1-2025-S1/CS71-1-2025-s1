@@ -2,7 +2,7 @@
 
 ![Proof HTML](https://github.com/5703-CS71-1-2025-S1/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Welcome 
+This project is a capstone for COMP5703 at the University of Sydney.   Our goal is to explore how Large Language Models (LLMs), like GPT, can assist in the adaptive hyperparameter optimization of machine learning models by guiding heuristic algorithms such as Particle Swarm Optimization (PSO) .
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+We aim to reduce manual tuning effort, improve optimization efficiency, and build a closed-loop system.

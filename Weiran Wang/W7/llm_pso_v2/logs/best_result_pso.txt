@@ -1,0 +1,6 @@
+Best AUC: 0.7724
+Best Parameters:
+Hidden: 94.00
+Learning Rate: 0.002017
+Dropout: 0.034
+L2: 0.001440

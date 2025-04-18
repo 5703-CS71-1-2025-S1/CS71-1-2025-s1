@@ -1,0 +1,53 @@
+2025-04-11 09:54:02,083 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 09:54:59,927 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9592476489028213, best pos: [1.58229505e+02 3.40809695e-01 7.85179963e-03]
+2025-04-11 09:58:44,677 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 09:59:42,067 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9608150470219435, best pos: [1.55149665e+02 3.15223870e-01 6.24182670e-03]
+2025-04-11 10:03:49,310 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 10:04:45,315 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9608150470219435, best pos: [1.61788703e+02 3.10431192e-01 6.24360889e-03]
+2025-04-11 10:07:42,806 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 10:08:42,748 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9623824451410659, best pos: [1.38849450e+02 3.01685054e-01 7.03624929e-03]
+2025-04-11 10:11:11,874 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 10:12:09,230 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9639498432601881, best pos: [2.44238534e+02 3.33659258e-01 4.74287750e-03]
+2025-04-11 10:20:02,561 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 10:20:20,425 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8761755485893417, best pos: [22.55821333  0.52682191  1.82113183]
+2025-04-11 10:30:12,023 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 10:30:25,415 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8663883089770354, best pos: [16.40765961  0.63275755  1.78797964]
+2025-04-11 17:09:02,761 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-11 17:09:02,764 - Comm - WARNING - No such comm: 02cebb05-a159-4cff-925d-dc39b016d690
+2025-04-11 17:09:12,914 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 19:24:16,595 - numexpr.utils - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-11 19:24:16,596 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-11 19:24:24,059 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.6}
+2025-04-11 19:29:29,244 - numexpr.utils - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-11 19:29:29,246 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-11 19:29:37,214 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.8}
+2025-04-11 19:35:52,548 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.7956244757740425, best pos: [9.44446790e+01 6.18657891e-01 3.93228082e-03 6.19497640e-02
+ 9.72941487e-01]
+2025-04-11 19:37:09,497 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 19:44:34,491 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9200626959247649, best pos: [176.7598065    0.18388712   0.51858607   0.59675921   1.25254945]
+2025-04-11 19:46:13,390 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 19:57:29,694 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9231974921630094, best pos: [42.91608207  0.07544994  0.37607314  1.39911783  1.4094071 ]
+2025-04-11 20:03:14,261 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.8}
+2025-04-11 20:10:55,467 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9278996865203761, best pos: [16.04911811  0.19619263  0.62886995  1.0789689   1.45206652]
+2025-04-11 20:14:37,100 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.8}
+2025-04-11 20:31:44,530 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9231974921630094, best pos: [9.34581804e+01 2.01359007e-02 4.88454254e-01 1.26402207e+00
+ 3.37726514e-01]
+2025-04-11 20:33:10,759 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.8}
+2025-04-11 20:41:02,364 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9247648902821317, best pos: [15.69693833  0.13995714  0.27504694  1.1901518   1.14045212]
+2025-04-11 20:50:11,090 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.8}
+2025-04-11 21:02:46,152 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9231974921630094, best pos: [15.84310979  0.15420586  0.66690858  0.68389692  0.93238982]
+2025-04-11 21:05:13,153 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 21:19:16,430 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9263322884012539, best pos: [1.68988139e+02 4.64854544e-01 7.28305692e-01 9.47547832e-01
+ 1.51583445e-01]
+2025-04-11 21:41:01,930 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 21:49:35,171 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9231974921630094, best pos: [61.48314959  0.75602391  0.619736    1.3490585   0.21715817]
+2025-04-11 21:52:23,805 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-11 21:58:58,243 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9278996865203761, best pos: [27.08862786  0.62504306  0.39706576  0.75511401  0.34246238]
+2025-04-13 09:00:58,273 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-13 09:01:21,527 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8322884012539185, best pos: [0.21586446 0.37508034 0.11078446]
+2025-04-13 09:01:49,079 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-13 09:05:34,246 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9137931034482759, best pos: [57.46036753  0.31039818  0.57104674  1.52906782  0.19503503]
+2025-04-13 09:09:04,419 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.5}
+2025-04-13 09:16:43,276 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9216300940438872, best pos: [106.90593784   0.29312829   0.49345521   1.30041086   0.18184412]
+2025-04-13 16:52:23,788 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-13 16:52:23,791 - Comm - WARNING - No such comm: 5fe3e77c-63d3-4b07-ad0a-12809d0afaf4
